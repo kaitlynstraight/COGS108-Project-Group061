@@ -1,6 +1,12 @@
 #COGS108 - Group 061 Project Proposal
 
-NAMES: Be sure to include each member’s name
+##NAMES: 
+- Ananya Shaligram
+- Kaitlyn Straight
+- Mieko
+- Tracy
+- Aahil Keshwani
+
 
 Names : Replace the lines to list each person’s full name. Add lines as needed for your group size, and make sure each name is listed on a separate line.
 RESEARCH QUESTION: What is your research question? Include the specific question you're setting out to answer. This question should be specific, answerable with data, and clear. A general question with specific subquestions is permitted. (1-2 sentences)
